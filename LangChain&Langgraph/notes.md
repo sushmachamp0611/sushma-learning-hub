@@ -35,9 +35,20 @@ We need openAPI key to use above models
 
 
 
+**Text Embedding** 
+
+<img width="662" height="456" alt="image" src="https://github.com/user-attachments/assets/7e4b1076-d7bb-426f-84a6-558fb85fefa5" />
+
+
 
 
 <img width="897" height="462" alt="image" src="https://github.com/user-attachments/assets/1140b2ca-cf63-4cb0-9ccd-5ea23c9dcd78" />
+
+
+**Prompt Module Concept**
+A PromptTemplate is a reusable structure for prompts.It lets you define a template string with placeholders and fill them dynamically.Purpose: ensures consistency, reduces repetition, and makes prompts modular.
+
+<img width="736" height="422" alt="image" src="https://github.com/user-attachments/assets/e0542c92-724e-4b0a-b452-d6c03afa44f2" />
 
 
 
