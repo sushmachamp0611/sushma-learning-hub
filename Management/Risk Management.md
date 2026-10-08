@@ -49,3 +49,21 @@ Example: Weekly risk log updates in program dashboards.
 | **Assumption** | Teams will adopt CI/CD pipelines within 2 sprints | Agile Coach | Validate adoption metrics |
 | **Issue** | Current monitoring dashboards lack node-level visibility | DevOps | Build Grafana dashboards |
 | **Dependency** | Security audit completion before production rollout | Security Team | Track audit milestones |
+
+**Types**: Operational, resources, IT, Financial, Compliance, Cyber 
+
+**Maturity levels**: 
+1. issue tracking
+2. Risk Register
+3. RAID logs
+4. Enterprise Risk mgmt
+5. AI-Powered Predictive Risk Mgmt
+
+**AI Risk Examples**: Hallucination, Bias, Privacy, Compliance 
+
+Difference between Mitigation and Continency Plan
+Mitigation Plan (Proactive prevention) → Actions taken before a risk occurs to reduce its likelihood or impact.
+Example (Kubernetes program): Implement automated regression tests to lower the chance of upgrade failures.
+
+Contingency Plan (reactive respinse)→ Actions taken after the risk materializes, to minimize damage and recover.
+Example (Kubernetes program): Roll back to the previous stable cluster version if the upgrade breaks compatibility.
