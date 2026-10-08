@@ -22,6 +22,12 @@ We need openAPI key to use above models
 **LangChain Modules**
 
 
+<img width="897" height="462" alt="image" src="https://github.com/user-attachments/assets/1140b2ca-cf63-4cb0-9ccd-5ea23c9dcd78" />
+
+
+
+
+
 <img width="817" height="396" alt="image" src="https://github.com/user-attachments/assets/d26f3a8c-05d1-44dc-8f39-969a955342f3" />
 
 
@@ -53,7 +59,7 @@ We need openAPI key to use above models
 
 
 
-<img width="897" height="462" alt="image" src="https://github.com/user-attachments/assets/1140b2ca-cf63-4cb0-9ccd-5ea23c9dcd78" />
+
 
 
 
