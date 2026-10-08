@@ -1,0 +1,10 @@
+Project 1: Simple Question and Answer 
+from langchain_openai import ChatOpenAI
+llm = ChatOpenAI(model="gpt-4o-mini", api_key="YOUR_API_KEY")
+resp = llm.invoke("Hello, how are you?")
+print(resp.content)
+
+from langchain_huggingface import HuggingFaceEndpoint
+llm = HuggingFaceEndpoint(repo_id="facebook/blenderbot-400M-distill", huggingfacehub_api_token="YOUR_API_KEY")
+resp = llm.invoke("Hello, how are you?")
+print(resp)
