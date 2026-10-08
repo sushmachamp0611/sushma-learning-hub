@@ -5,7 +5,7 @@ Risk management is the process of identifying, assessing, and controlling uncert
 It’s not just about avoiding problems — it’s about proactively planning for both threats and opportunities.Key Steps in Risk Management (Program Manager Lens)
 Identify Risks
 
-Steps :
+**Steps** :
 1. Identify Risks
 Spot uncertainties across projects: technical failures, resource gaps, vendor delays, compliance issues.
 Example: A dependency on a new API that may not be stable.
@@ -27,7 +27,7 @@ Keep stakeholders aligned with transparent reporting.
 Example: Weekly risk log updates in program dashboards.
 
 -----------------------------------------------------------------------------
-Risk Register → detailed list of risks with mitigation.
+**Risk Register** → detailed list of risks with mitigation.
 | Risk ID | Description | Likelihood | Impact | Owner | Mitigation |
 | --- | --- | --- | --- | --- | --- |
 | R1 | Cluster upgrade may break backward compatibility | High | High | Tech Lead | Run upgrade in staging, automate regression tests |
@@ -35,14 +35,14 @@ Risk Register → detailed list of risks with mitigation.
 | R3 | Agile adoption resistance from legacy teams | High | Medium | Agile Coach | Conduct workshops, pilot with early adopters |
 | R4 | Vendor dependency for container registry | Low | High | PM | Evaluate backup registry, negotiate SLA |
 
-Risk Matrix → visual prioritization tool.
+**Risk Matrix** → visual prioritization tool.
 |  | **Low Impact** | **Medium Impact** | **High Impact** |
 | --- | --- | --- | --- |
 | **Low Likelihood** | Accept | Monitor | Mitigate |
 | **Medium Likelihood** | Monitor | Mitigate | Escalate |
 | **High Likelihood** | Mitigate | Escalate | Avoid/Redesign |
 
-RAID Log → broader program management view (not just risks).
+**RAID** Log → broader program management view (not just risks).
 | Category | Entry | Owner | Action |
 | --- | --- | --- | --- |
 | **Risk** | Pod autoscaler may fail under peak load | Infra Team | Stress test before release |
