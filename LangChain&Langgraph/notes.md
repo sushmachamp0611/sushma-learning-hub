@@ -19,7 +19,22 @@ Use Cases: Customer support and virtual assistant, Content creation an copywriti
 
 We need openAPI key to use above models
 
+
+<img width="817" height="396" alt="image" src="https://github.com/user-attachments/assets/d26f3a8c-05d1-44dc-8f39-969a955342f3" />
+
+
+
+
+
+
 **LangChain Modules**
+
+<img width="917" height="467" alt="image" src="https://github.com/user-attachments/assets/292539a8-761b-4000-a85b-6bef77d58204" />
+
+
+
+
+
 
 
 
@@ -30,12 +45,6 @@ We need openAPI key to use above models
 
 
 
-<img width="817" height="396" alt="image" src="https://github.com/user-attachments/assets/d26f3a8c-05d1-44dc-8f39-969a955342f3" />
-
-
-
-
-<img width="917" height="467" alt="image" src="https://github.com/user-attachments/assets/292539a8-761b-4000-a85b-6bef77d58204" />
 
 
 
