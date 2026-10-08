@@ -1,4 +1,4 @@
-Project 1: Simple Question and Answer 
+Project 1: Simple Question and Answer ( simple LLM invoke)
 from langchain_openai import ChatOpenAI
 llm = ChatOpenAI(model="gpt-4o-mini", api_key="YOUR_API_KEY")
 resp = llm.invoke("Hello, how are you?")
@@ -8,3 +8,8 @@ from langchain_huggingface import HuggingFaceEndpoint
 llm = HuggingFaceEndpoint(repo_id="facebook/blenderbot-400M-distill", huggingfacehub_api_token="YOUR_API_KEY")
 resp = llm.invoke("Hello, how are you?")
 print(resp)
+
+Above code can be easily converted to app, by moving input and output to variables and read-write I/O
+
+Chat Models (like ChatOpenAI) → expect structured messages (HumanMessage, AIMessage, etc.) and are designed for multi-turn dialogue.
+Simple Question-Answer Models (like OpenAI or HuggingFaceEndpoint used as LLM) → expect plain text input and return plain text output, good for one-shot Q&A.
