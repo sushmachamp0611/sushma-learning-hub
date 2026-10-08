@@ -2,6 +2,7 @@
 **Software framework** : common libraries + tools
 LLM: trained once with x data (misses domain knowledge, latest news etc) 
 
+Agentic AI frameworks: Langchain, Langgraph, Llamaindex 
 **Langchain**: framework to build application by using multiple LLM for different tasks
 
 **Huggingface** is open platform - AI models + datasets + space. 
