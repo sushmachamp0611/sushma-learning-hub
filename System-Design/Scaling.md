@@ -29,7 +29,8 @@
         │                 │                 │
 ┌─────────────┐   ┌─────────────┐   ┌─────────────┐
 │ Worker A    │   │ Worker B    │   │ Worker C    │
-│ (Retriever) │   │ (Summarizer)│   │ (Planner)   │
+│ 
+(Retriever) │   │ (Summarizer)│   │ (Planner)   │
 └─────────────┘   └─────────────┘   └─────────────┘
 
 - Manager Agent: Receives user query, decides strategy.
