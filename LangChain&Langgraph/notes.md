@@ -85,3 +85,21 @@ A PromptTemplate is a reusable structure for prompts.It lets you define a templa
 
 
 
+
+
+
+
+
+**Memory Module**
+Conversational memory is what enables chatbots to retain conversation memory while having chat. Even though chatbot are stateless and have to implement conversational memory to give context aware responses 
+
+| Memory Type | What It Stores | Best Use Case |
+| --- | --- | --- |
+| Buffer Memory | Full chat history | Short sessions |
+| Buffer Window Memory | Last N turns | Lightweight context |
+| Summary Memory | Summarized history | Long chats |
+| Entity Memory | Facts about entities | Tracking people/things |
+| Combined Memory | Mix of types | Balanced approach |
+| Vector Store Memory | Semantic embeddings | Long-term recall |
+
+LangChain offers multiple memory types — from simple buffers to semantic vector stores — so you can balance context length, efficiency, and relevance in conversational AI.
