@@ -25,19 +25,30 @@ We need openAPI key to use above models
 <img width="817" height="396" alt="image" src="https://github.com/user-attachments/assets/d26f3a8c-05d1-44dc-8f39-969a955342f3" />
 
 
+
+
 <img width="917" height="467" alt="image" src="https://github.com/user-attachments/assets/292539a8-761b-4000-a85b-6bef77d58204" />
 
 
+
+
 <img width="917" height="407" alt="image" src="https://github.com/user-attachments/assets/7120fbca-d1b9-49a4-9f04-98bcb433afb6" />
+
+
 
 
 <img width="907" height="427" alt="image" src="https://github.com/user-attachments/assets/17967ead-cfcf-44a8-8d88-530c8e47259e" />
 
 
 
+
+
 **Text Embedding** 
 
+
 <img width="662" height="456" alt="image" src="https://github.com/user-attachments/assets/7e4b1076-d7bb-426f-84a6-558fb85fefa5" />
+
+
 
 
 
@@ -45,8 +56,12 @@ We need openAPI key to use above models
 <img width="897" height="462" alt="image" src="https://github.com/user-attachments/assets/1140b2ca-cf63-4cb0-9ccd-5ea23c9dcd78" />
 
 
+
+
 **Prompt Module Concept**
 A PromptTemplate is a reusable structure for prompts.It lets you define a template string with placeholders and fill them dynamically.Purpose: ensures consistency, reduces repetition, and makes prompts modular.
+
+
 
 <img width="736" height="422" alt="image" src="https://github.com/user-attachments/assets/e0542c92-724e-4b0a-b452-d6c03afa44f2" />
 
