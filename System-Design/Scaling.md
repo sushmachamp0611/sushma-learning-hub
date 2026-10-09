@@ -30,6 +30,8 @@
 ┌─────────────┐   ┌─────────────┐   ┌─────────────┐
 │ Worker A    │   │ Worker B    │   │ Worker C    │
 │ 
+
+
 (Retriever) │   │ (Summarizer)│   │ (Planner)   │
 └─────────────┘   └─────────────┘   └─────────────┘
 
@@ -54,6 +56,29 @@
 - Use vector DBs (FAISS, Chroma, Pinecone) for long‑term recall.  
 - Agents query memory instead of holding everything in RAM.  
 - Best for **knowledge grounding** and long conversations.
+
+**Knowledge grounding** means connecting an AI system’s reasoning or responses to a trusted external source of truth (like a database, documents, or APIs) instead of relying only on its internal memory or training data. It’s about making sure the system’s outputs are anchored in verifiable information.
+->Without grounding → AI is “guessing” based on training.
+->With grounding → AI is “consulting a library” before answering.
+
+User Query
+    |
+    v
++-----------+        +-------------------+
+| Retriever | -----> | Knowledge Base    |
++-----------+        | (Docs, DB, APIs)  |
+    |                +-------------------+
+    v
+Relevant Context
+    |
+    v
++-----------+
+|   LLM     |  <-- combines reasoning + grounded facts
++-----------+
+    |
+    v
+Grounded Response
+
 
 
 ## Agent Scaling Patterns – Tradeoffs & Usage
