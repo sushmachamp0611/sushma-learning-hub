@@ -1,0 +1,1 @@
+Harness engineering is the process of creating structured test environments (harnesses) that provide inputs, control execution, and capture outputs, enabling reliable validation of complex systems without needing the full production setup.
