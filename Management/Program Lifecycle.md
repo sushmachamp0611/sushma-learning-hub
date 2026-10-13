@@ -14,7 +14,7 @@
 
 
 
-**Program Definition Phase**
+1. **Program Definition Phase**
       -> Establish goals
       -> Feasibility {Plan, Delay, Cancel}
       -> Stragegic goal alignement
@@ -22,15 +22,29 @@
       Sub Phases are : **Formulation** and **Planning**
       Key outputs: Business case (Internal and external audience) (WHY), Program Charter (WHAT/WHO), Program Management plan (HOW).
 
-Sample Business case: Executive summary, Program Objectives, Stragegix alignment, Cost-benefit-analysis, ROI, Risks, assumpition and mitigation 
+**Formulation**
+Business case: Executive summary, Program Objectives, Stragegix alignment, Cost-benefit-analysis, ROI, Risks, assumpition and mitigation 
 Why the program should be done
-
 Program Charter provides What needs to be done in program and who would govern it
+- Executive summary, Strategic alignment, Costs and benefits, Risks, assumptions, constraints, Governance structure, Roles and Responsibilities, Decision-making authority, Program components, Milestones, timelines, deliverables, Stakeholder identifications
 
-**Delivery Phase** 
+**Planning**
+Project Management plan(How). Expands charter into executable plans and explains how benefits will be delivered.
+-> Define benefit owners and realization timelines
+-> Map dependencies between components
+-> create program roadmap
+Plan for Benefits management, Stakeholder engagement, Change management, Governance, Resource management, Schedule/scope management, 
+
+2. **Delivery Phase** 
 -> Execute and integrate planned component
 
-**Closure Phase**
+   Sub-phase	Goal
+Authorization and Planning	Start and Prepare components
+Oversight and Integrtion	Execute, monitor and coordinate
+Transition and closure	Handover, realize benefits and close
+
+
+4. **Closure Phase**
 -> Document 
 -> Transition Deliverables
 -> Reflection
