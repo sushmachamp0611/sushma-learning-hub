@@ -38,10 +38,14 @@ Plan for Benefits management, Stakeholder engagement, Change management, Governa
 2. **Delivery Phase** 
 -> Execute and integrate planned component
 
-   Sub-phase	Goal
-Authorization and Planning	Start and Prepare components
-Oversight and Integrtion	Execute, monitor and coordinate
-Transition and closure	Handover, realize benefits and close
+## Program Lifecycle Sub‑Phases
+
+| Sub‑phase               | Goal                                    |
+|--------------------------|-----------------------------------------|
+| Authorization and Planning | Start and prepare components            |
+| Oversight and Integration  | Execute, monitor, and coordinate        |
+| Transition and Closure     | Handover, realize benefits, and close   |
+
 
 
 4. **Closure Phase**
