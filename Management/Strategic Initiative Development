@@ -3,22 +3,6 @@ Vission: What to we aspire for ? Become the leading cloud services providers in 
 
 Mission and vision drive stragegic iniatiatives and executed by Portfolios -> programs-> projects 
 
-Example: 
-Digital transformation Portfolio 
-contains:
--> cloud migration program
--> Cybersecuirty program
--> AI initiative
--> Data modernization Program
-
-Cloud modernization program includes Projects: Infrastruture upgrade , Application migration, Security enhancement, Training
-
-Projects : Move SAP application to Azure
-
-Portfolio= Strategy
-Program= Benefits
-Project= Deliverables
-
 Four Balanced Scorecard Perpectives 
 
 ## Balanced Scorecard – Four Perspectives
@@ -33,4 +17,22 @@ Four Balanced Scorecard Perpectives
 *Balanced Scorecard links financial outcomes with customer value, internal efficiency, and organizational learning.*
 
 
+Example: 
+Stragegic goal: Become a leader in cloud services
+Portfolio :Digital transformation Portfolio 
+Programs:
+-> cloud migration program
+-> Cybersecuirty program
+-> AI initiative
+-> Data modernization Program
+Projects : Cloud tranformation program
+ Infrastruture upgrade, Data center migration, Security modernization, Training
+Benefits by Balance scorecard
+ 1. Financial -> Lower infrastruture cost
+ 2. Customer -> Beter uptime
+3. Internal process -> faster deployment
+4. Learning & Growth -> upskilled workforce
 
+Portfolio= Strategy
+Program= Benefits
+Project= Deliverables
