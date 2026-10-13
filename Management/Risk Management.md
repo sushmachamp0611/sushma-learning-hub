@@ -16,11 +16,13 @@ Example: API instability → High likelihood, High impact.
 3. Prioritize Risks
 Focus on the “critical few” that could derail timelines or strategic outcomes.
 Example: Security compliance risks often outrank minor UI bugs.
+
 4 Plan Responses
 Avoid: Change scope to eliminate the risk.
 Mitigate: Reduce probability/impact (e.g., backup vendor).
 Transfer: Shift responsibility (e.g., insurance, outsourcing).
 Accept: Monitor and prepare contingency.
+
 5 Monitor & Communicate
 Track risks continuously in program reviews.
 Keep stakeholders aligned with transparent reporting.
