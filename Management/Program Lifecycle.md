@@ -11,6 +11,9 @@
 <img width="972" height="477" alt="image" src="https://github.com/user-attachments/assets/ed9d5d6b-e15d-41dd-8b12-325cc634a1c1" />
 
 
+
+
+
 **Program Definition Phase**
       -> Establish goals
       -> Feasibility {Plan, Delay, Cancel}
@@ -20,24 +23,9 @@
       Key outputs: Business case (Internal and external audience) (WHY), Program Charter (WHAT/WHO), Program Management plan (HOW).
 
 Sample Business case: Executive summary, Program Objectives, Stragegix alignment, Cost-benefit-analysis, ROI, Risks, assumpition and mitigation 
-Why the program should be done 
+Why the program should be done
 
-Purpose:  
-To reduce operational costs and improve data throughput by implementing AI‑based workload prediction and dynamic storage tiering across Dell’s enterprise storage systems.
-Problem Statement:  
-Current storage utilization is inefficient, leading to 20–25% idle capacity and delayed provisioning for high‑priority workloads.
-Proposed Solution:  
-Deploy an AI model that predicts usage patterns and automatically reallocates storage resources between PowerStore and cloud tiers.
-Expected Benefits:
-30% improvement in storage utilization efficiency
-15% reduction in provisioning time
-Enhanced customer satisfaction through faster response times
-Cost Estimate:  
-Initial investment: $1.2M (hardware + AI integration)
-ROI expected within 18 months.
-Risks & Mitigation:
-Integration risk: Pilot in one region before global rollout.
-Data accuracy risk: Continuous model retraining with telemetry feedback.
+Program Charter provides What needs to be done in program and who would govern it
 
 **Delivery Phase** 
 -> Execute and integrate planned component
