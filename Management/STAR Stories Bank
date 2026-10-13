@@ -1,37 +1,18 @@
 S (Situation): Briefly set the context (project, team, challenge).
-
 T (Task): Define your responsibility or the problem you had to solve.
-
 A (Action): Explain the steps you took — highlight leadership, technical depth, and decision-making.
-
 R (Result): Quantify the outcome (metrics, efficiency gains, adoption, cost savings, etc.).
-
-👉Always emphasize three values you bring:
-
-Technical Depth (Java, Microservices, Kubernetes, Cloud-native)
-
-Leadership & Ownership (Scrum Master/Product Owner mindset)
-
-Business Impact (how your work improved scalability, cost, or customer experience)
-
-
 
 🧩 Quick STAR Mini-Frameworks for Common Questions
 
 Handling Ambiguity: Situation = unclear requirements; Action = structured backlog refinement + stakeholder workshops; Result = clarity and faster delivery.
 Conflict Resolution: Highlight stakeholder alignment and backlog prioritization 
-
 Driving Innovation: Situation = need for intelligent storage sizing; Action = introduced LLM-powered RAG modules; Result = contextual recommendations and improved customer experience.
-
-Leadership:
-
+Leadership: Situation = when team got huge number of defects n a single sprint Action: negioted with Product manager on scope of fututre requirement and priotized quality to be addressed first. after defects were fixed and release went on time, Did postparum o understand RCA and gatherred improvements for upcming sprints. 
 Failure/Setback: Situation = Build failure; Action = Postmortum and RCA analyses, and suggested several improvements like test coverage results and selective repo blocking; Result = reduced PR merge block time by 60%.
 Technical Challenge Question: Kubernetes scaling
 
-
-
 -----
-
 ⭐ STAR Story 1 – Leadership & Stakeholder Alignment
 Situation: Transitioned into Program Manager role for CMO platform, where multiple teams had conflicting priorities.
 Task: Align backlog priorities across engineering, product, and business stakeholders.
