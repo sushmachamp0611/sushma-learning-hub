@@ -6,3 +6,20 @@
 | **Focus** | Deliverables and stakeholder satisfaction | Business benefits and strategic outcomes | Organizational strategy and long‑term objectives |
 | **Example** | Social media campaign for a product | Multi‑channel marketing campaign (social, digital, print) | All marketing and production initiatives across products |
 | **Manager Role** | Tactical — manages scope, schedule, cost | Strategic — oversees multiple projects, ensures alignment | Executive — aligns programs/projects with corporate strategy |
+
+
+<img width="972" height="477" alt="image" src="https://github.com/user-attachments/assets/ed9d5d6b-e15d-41dd-8b12-325cc634a1c1" />
+
+
+**Definition Phase**
+-> Establish goals
+-> Feasibility {Plan, Delay, Cancel}
+-> Stragegic goal alignement
+
+**Delivery Phase** 
+-> Execute and integrate planned component
+
+**Closure Phase **
+-> Document 
+-> Transition Deliverables
+-> Reflection
