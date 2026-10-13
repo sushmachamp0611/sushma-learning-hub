@@ -52,10 +52,18 @@ Once Planned obtain Authorization i.e.  formal approval and funding and then int
 
 Oversight (Scope -> Schedule -> Budget-> Ouality ) and Integration coorodinate all projects and workstreams for example Infra must finish before migrations (Monitor-> Integrate->Manage risks-> Control Chnages- > Report)
 
+Transition and closure : 
+-> Move systems to production.
+->Train operations teams
+-> Measure business benefits.
+Capture lessons learned
+close projects. 
 
-4. **Closure Phase**
+3. **Closure Phase**
 -> Document 
 -> Transition Deliverables
 -> Reflection
+
+   Financial closure, Information Archiving and Transition, Procurement closure, Resource transition, Risk transition, Lessons learned, Final program report.
 
 
