@@ -19,7 +19,7 @@
 **Delivery Phase** 
 -> Execute and integrate planned component
 
-**Closure Phase **
+**Closure Phase**
 -> Document 
 -> Transition Deliverables
 -> Reflection
