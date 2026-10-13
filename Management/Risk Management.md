@@ -42,6 +42,8 @@ Example: Weekly risk log updates in program dashboards.
 | **Medium Likelihood** | Monitor | Mitigate | Escalate |
 | **High Likelihood** | Mitigate | Escalate | Avoid/Redesign |
 
+**Risk Score = impact * probability** 
+
 **RAID** Log → broader program management view (not just risks).
 | Category | Entry | Owner | Action |
 | --- | --- | --- | --- |
