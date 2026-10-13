@@ -14,7 +14,7 @@
 
 
 
-1. **Program Definition Phase**
+1. **Program Definition Phase** Why-> What-> Hw
       -> Establish goals
       -> Feasibility {Plan, Delay, Cancel}
       -> Stragegic goal alignement
@@ -35,7 +35,7 @@ Project Management plan(How). Expands charter into executable plans and explains
 -> create program roadmap
 Plan for Benefits management, Stakeholder engagement, Change management, Governance, Resource management, Schedule/scope management, 
 
-2. **Delivery Phase** 
+2. **Delivery Phase** Start -> Execute -> Close
 -> Execute and integrate planned component
 
 ## Program Lifecycle Sub‑Phases
