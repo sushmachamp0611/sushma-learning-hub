@@ -46,6 +46,11 @@ Plan for Benefits management, Stakeholder engagement, Change management, Governa
 | Oversight and Integration  | Execute, monitor, and coordinate        |
 | Transition and Closure     | Handover, realize benefits, and close   |
 
+Authorization and Planning Phase : Scope->Plan->Approve->Align 
+Example: Cloud transformation program would include Migration, Security and training projects (Scope and boudaries are clearly defined) and plan for each component like schedule, risks, quality, resources, communications
+Once Planned obtain Authorization i.e.  formal approval and funding and then integration and alignment for example secuirty projects supports complaince goal, migration project supports modernization goal. 
+
+Oversight (Scope -> Schedule -> Budget-> Ouality ) and Integration coorodinate all projects and workstreams for example Infra must finish before migrations (Monitor-> Integrate->Manage risks-> Control Chnages- > Report)
 
 
 4. **Closure Phase**
